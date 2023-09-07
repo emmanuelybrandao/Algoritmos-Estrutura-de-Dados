@@ -3,4 +3,4 @@
 ## Estudos de caso e desenvolvimento de algoritmos para:
 * Algoritmos 2
 * Estrutura de Dados
-* plataforma URI
+* Plataforma URI
